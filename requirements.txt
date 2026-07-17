@@ -1,0 +1,6 @@
+streamlit
+pypdf
+Pillow
+python-docx
+fpdf2
+pymupdf
